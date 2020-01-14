@@ -1,0 +1,16 @@
+body{
+    background-color: #333;
+    padding-top: 35px;
+}
+
+.title-white{
+    color: #FFF;
+}
+
+.subtitle-light-gray{
+    color: #CCC;
+}
+
+.bg-white{
+    background-color: #FFFFFF;
+}
